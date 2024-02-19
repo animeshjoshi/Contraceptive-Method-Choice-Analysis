@@ -1,0 +1,1 @@
+This was a project in which I analyzed a dataset concerning contraceptive use in Indonesia. As a part of this project, I completed feature engineering and exploratory data analysis (EDA) and built predictive models (KNN, Random Forest, Perceptron Network) to predict which contraceptive method a particular individual would use.
